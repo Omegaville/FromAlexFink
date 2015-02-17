@@ -1,5 +1,6 @@
 function Grid(size) {
-  this.size = size;
+//  this.size = size;
+  this.size = 6;
 
   this.cells = [];
 
